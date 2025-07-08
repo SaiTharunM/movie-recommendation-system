@@ -47,7 +47,7 @@ streamlit run movie_recommender.py
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+screenshot.png
 
 ### 👨‍💻 Developed By
 Sai Tharun M
