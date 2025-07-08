@@ -45,9 +45,6 @@ pip install -r requirements.txt
 
 streamlit run movie_recommender.py
 
-## 📸 Screenshot
-
-!(screenshot.png)
 
 ### 👨‍💻 Developed By
 Sai Tharun M
