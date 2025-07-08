@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 streamlit run movie_recommender.py
 
+---
 
 ### 👨‍💻 Developed By
 Sai Tharun M
@@ -53,6 +54,8 @@ Sai Tharun M
 🔗 LinkedIn
 💻 GitHub
 🌐 Portfolio
+
+---
 
 ### 📄 License
 This project is open-source and available under the MIT License.
